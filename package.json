@@ -1,0 +1,16 @@
+{
+  "name": "typescript-project",
+  "version": "0.0.1",
+  "description": "A TypeScript project example",
+  "main": "index.js",
+  "author": "Luis Aviles",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "typescript": "^2.1.5"
+  }
+}
