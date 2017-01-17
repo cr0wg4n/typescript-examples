@@ -1,9 +1,8 @@
 {
   "files": [
-    "src/*.ts"
+    "src/basic-types/*.ts"
   ],
   "compilerOptions": {
-    "noImplicitAny": true,
     "target": "es5"
   }
 }
