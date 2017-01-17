@@ -37,7 +37,7 @@ tupleX = ["hello", 10]; // OK
 // x = [10, "hello"]; // Error
 console.log('tuple x', tupleX);
 console.log(tupleX[0].substr(1));
-// console.log(x[1].substr(1)); // Error
+// console.log(tupleX[1].substr(1)); // Error
 
 let tupleY: [boolean, string] = [true, 'test'];
 console.log('tuple y', tupleY);
