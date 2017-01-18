@@ -1,6 +1,8 @@
 {
   "files": [
-    "src/basic-types/*.ts"
+    "src/basic-types/*.ts",
+    "src/figuras/*.ts",
+    "src/animales/*.ts"
   ],
   "compilerOptions": {
     "target": "es5"
